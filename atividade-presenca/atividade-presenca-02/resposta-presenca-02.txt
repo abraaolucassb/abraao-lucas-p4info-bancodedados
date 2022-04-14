@@ -5,7 +5,14 @@ Pesquise na bibliografia disponível.Defina o que é:
 
 RESPOSTA:
 1) Sistema Isolado
-É um sistema com diferentes programas, porém, com a mesma informação. Esse sistema é desvantajoso pois gera a redundância de dados (que ocasiona a divergência de dados ao longo do tempo), além de ter uma dificuldade no seu acesso, problemas de integridade e dentre outras dificuldades.
+É um sistema com diferentes programas, porém, com a mesma informação. 
+Esse sistema é desvantajoso pois gera a redundância 
+de dados (que ocasiona a divergência de dados ao longo do tempo), além de 
+ter uma dificuldade no seu acesso, problemas de integridade e dentre outras dificuldades.
 
 2) Sistema Integrado
-Uma forma de resolver essa redundância descontrolada de informações é o compartilhamento de dados. Nesse sistema, cada informação é armazenada uma única vez, sendo acessada pelos vários sistema que dela necessitam. Esse compartilhamento tem reflexos na estrutura do software, pois a estrutura interna passa a ser mais complexa, pois estes devem ser construídos de forma a atender às necessidades dos diferentes sistemas. Para resolver esse problema, usa-se um sistema de gerência de banco de dados(SGDB). 
+Uma forma de resolver essa redundância descontrolada de informações é o compartilhamento de dados.
+Nesse sistema, cada informação é armazenada uma única vez, sendo acessada pelos vários sistema 
+que dela necessitam. Esse compartilhamento tem reflexos na estrutura do software, pois a estrutura interna 
+passa a ser mais complexa, pois estes devem ser construídos de forma a atender às necessidades dos diferentes sistemas.
+Para resolver esse problema, usa-se um sistema de gerência de banco de dados(SGDB). 
