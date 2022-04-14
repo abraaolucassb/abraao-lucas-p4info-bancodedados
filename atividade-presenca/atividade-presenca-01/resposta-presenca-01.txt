@@ -1,1 +1,19 @@
-ainda irei realizar
+ATIVIDADE DE PRESENÇA-01:
+Pesquise na bibliografia disponibilizada os seguintes conceitos:
+1) Dado
+2) Informação
+3) Arquivo Convencional
+4) Banco de Dados
+
+RESPOSTA:
+1) Dado
+Os dados são fatos que podem ser gravados e que possuem um significado implícito.
+
+2) Informação
+São os fatos (dados) organizados de maneira a produzir um significado.
+
+3) Arquivo Convencional
+Conjunto de arquivos de uma mesma categoria.
+
+4) Banco de Dados
+Um banco de dados é uma coleção lógica e coerente de dados com algum significado inerente, que representa alguns aspectos do mundo real (sendo chamado, às vezes, de minimundo ou de universo de discurso) e é projetado, construído e povoado por dados, atendendo a uma proposta específica. Possui um grupo de usuários definido e algumas aplicações preconcebidas, de acordo com o interesse desse grupo de usuários.
