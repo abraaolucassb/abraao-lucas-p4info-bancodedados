@@ -2,4 +2,10 @@ ATIVIDADE DE PRESENÇA-07:
 Explique a seguinte afirmação: "Um Modelo deve refletir o seu aspecto temporal".
 
 RESPOSTA:
-Certas aplicações exigem que o banco de dados guarde o histórico de alteração de informações. Por exemplo, em um banco de dados de uma seguradora, pode ser necessário conhecer não só o segurado atual de uma apólice, mas também os do passado. O modelo de um banco de dados que armazena somente os valores atuais de uma informação é diferente do modelo do banco de dados que armazena o histórico da informação. Portanto, é necessário considerar o aspectro temporal na modelagem de dados. Não há regras gerais de como proceder neste caso, mas é possível identificar alguns padrões que repetem-se frequentemente na prática.
+Certas aplicações exigem que o banco de dados guarde o histórico de alteração de informações. 
+Por exemplo, em um banco de dados de uma seguradora, pode ser necessário conhecer não só 
+o segurado atual de uma apólice, mas também os do passado. O modelo de um banco de dados 
+que armazena somente os valores atuais de uma informação é diferente do modelo do banco 
+de dados que armazena o histórico da informação. Portanto, é necessário considerar o 
+aspectro temporal na modelagem de dados. Não há regras gerais de como proceder neste caso, 
+mas é possível identificar alguns padrões que repetem-se frequentemente na prática.
