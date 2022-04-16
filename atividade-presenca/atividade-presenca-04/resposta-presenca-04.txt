@@ -28,10 +28,16 @@ d) Dominio de um Atributo;
 Conjunto de valores que um determinado atributo pode assumir.
 
 e) Generalização/especialização;
-A generalização/especialização pode ser classificada em dois tipos, TOTAL ou PARCIAL, de acordo com a obrigatoriedade ou não 
+A generalização/especialização pode ser classificada em quatro tipos, TOTAL, PARCIAL, EXCLUSIVA E COMPARTILHADA de acordo com a obrigatoriedade ou não 
 de a cada ocorrência da entidade genérica corresponder uma ocorrência da entidade especializada.
 A TOTAL para cada ocorrência da entidade genérica existe sempre uma ocorrência em uma das entidades especializadas.
 Jà na PARCIAL, nem toda ocorrência da entidade genérica possui uma ocorrência correspondente em uma entidade especializada.
+Além da classificação em total e parcial, uma generalização/especialização também pode ser em COMPARTILHADA E EXCLUSIVA.
+Generalização/especialização EXCLUSIVA significa que, em uma hierarquia de generalização/especialização, uma ocorrência
+de entidade genérica é especializada no máximo uma vez nas folhas da árvore de generalização/especialização.
+Já na generalização/especialização COMPARTILHADA indica que, em uma hierarquia de generalização/especialização,
+uma ocorrência de entidade genérica pode aparecer em várias entidades nas folhas da 
+árvore de generalização/especialização.
 
 f) Entidade Associativa;
 Redefinição de um relacionamento que passa a ser tratado como se fosse também uma entidade.
