@@ -1,1 +1,46 @@
-ainda irei realizar
+ATIVIDADE DE PRESENÇA-08:
+Quanto a Abordagem Relacional, descreva os seguintes conceitos:
+a) Tabela
+b) Chave Primária
+c) Chave Estrangeira
+d) Chave Alternativa
+e) Dominio da Coluna
+f) Integridade de Dominio
+g) Integridade de Vazio
+h) Integridade de Chave
+i) Integridade Referencial
+
+RESPOSTA:
+a) Tabela
+Uma tabela é um conjunto não ordenado de linhas (tuplas, na terminologia acadêmica.
+
+b) Chave Primária
+Uma chave primária é uma coluna ou uma combinação de colunas cujos valores distinguem 
+uma linha das demais dentro de uma tabela.
+
+c) Chave Estrangeira
+Chave estrangeira é uma coluna ou uma combinação de colunas cujos valores aparecem 
+necessariamente na chave primária de uma tabela.
+
+d) Chave Alternativa
+Em alguns casos, mais de uma coluna ou combinações de colunas podem servir para 
+distinguir uma linha das demais.Umas das colunas (ou combinação de colunas) é escolhida 
+como chave primária. As demais colunas ou combinações são denomidadas chaves alternativas.
+
+e) Dominio da Coluna
+Conjunto de valores especificados para cada coluna da tabela do banco de dados.
+
+f) Integridade de Dominio
+Restrições deste tipo especificam que o valor de um campo deve obedecer a definição de 
+valores admitidos para a coluna (o domínio de coluna).
+
+g) Integridade de Vazio
+Através deste tipo de restrição de integridade é especificado se os campos de uma coluna 
+podem ou não ser vazios (se a coluna é obrigatória ou opcional).
+
+h) Integridade de Chave
+Trata-se da restrição que difine que os valores da chave primária e alternativa devem ser únicos.
+
+i) Integridade Referencial
+É a restrição que difine que os valores dos campos que aparecem um uma chave estrangeira devem aparecer 
+na chave primária da tabela referenciada.
