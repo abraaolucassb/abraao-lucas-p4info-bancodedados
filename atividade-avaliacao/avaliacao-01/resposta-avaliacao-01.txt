@@ -1,8 +1,0 @@
-AVALIAÇÃO 01:
-Criar uma conta no Github.
-Criar um repositório com a seguinte formatação: <nome-aluno>-p4info-bancodedados
-no repositório criar as pastas atividade-avaliação e atividade-presencial
-No Google Classroom na Atividade-01 postar o link do repositório no GitHub
-
-LINK DO MEU REPOSITÓRIO CRIADO:
-https://github.com/abraaolucassb/abraao-lucas-p4info-bancodedados.git
