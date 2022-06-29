@@ -3,10 +3,19 @@
  * @returns { Promise<void> } 
  */
  exports.seed = async function(knex) {
-  await knex('table_name').del()
-  await knex('table_name').insert([
-    {id: 1, colName: 'rowValue1'},
-    {id: 2, colName: 'rowValue2'},
-    {id: 3, colName: 'rowValue3'}
+  await knex('TB_CLIENTE').del()
+  await knex('TB_CLIENTE').insert([
+    {
+      id: 1,
+      codigo: 001,
+      cnpjcpf: '67.638.976/0001-65',
+      nome: 'Ângela Ferraço Faustino'
+    },
+    {
+      id: 2,
+      codigo: 002,
+      cnpjcpf: '60.853.167/0001-27',
+      nome: 'KellY Galante Varela'
+    },
   ]);
 };
